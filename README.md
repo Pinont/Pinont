@@ -21,7 +21,7 @@
 </a>
 </div><br>
 
-- 🌱 I’m currently learning **Java, Swift**
+- 🌱 I’m currently learning **Java, Javascript, Python, C++**
 
 - 📫 How to reach me **pinont@pinont.com**
 
