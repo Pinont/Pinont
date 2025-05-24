@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nont</h1>
 <h3 align="center">A Minecraft plugin Developer from Thailand</h3>
 
+<div align="center">
+  <img alt='wakatime-stats' src='https://github-readme-stats.vercel.app/api/wakatime?username=pinozenth\&layout=compact' />
+</div>
+
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -38,13 +42,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pinont"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pinont" /></a>
   <a href="https://ko-fi.com/pinont"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="pinont" /></a></p><br><br>
-
-<br />
-<details>
-  <summary>More Info!</summary>
-  <a href='#'>
-    <div>
-      <img alt='wakatime-stats' src='https://github-readme-stats.vercel.app/api/wakatime?username=pinozenth\&layout=compact' />
-    </div>
-  </a>
-</details>
