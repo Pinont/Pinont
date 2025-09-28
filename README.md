@@ -8,4 +8,4 @@
   <img alt='wakatime-stats' src='https://github-readme-stats.vercel.app/api/wakatime?username=pinozenth\&layout=compact' />
 </div>
 <br>
-<p align="center"><a href="https://github.com/Pinont/Pinont/blob/main/CV.md">Check out my CV</a></p>
+<p align="center"><a href="https://devfolio.co/@Pinont/readme-md">Check out my CV</a></p>
