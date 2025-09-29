@@ -8,4 +8,4 @@
   <img alt='wakatime-stats' src='https://github-readme-stats.vercel.app/api/wakatime?username=pinozenth\&layout=compact' />
 </div>
 <br>
-<p align="center"><a href="https://devfolio-prod.s3.ap-south-1.amazonaws.com/resumes/06f0bec9e5c4467fb5986cbbf3ea6e76.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZEDGU5HTZYBZJTPN%2F20250928%2Fap-south-1%2Fs3%2Faws4_request&X-Amz-Date=20250928T133205Z&X-Amz-Expires=900&X-Amz-Signature=cc524e19e539a751fabfcbf79acaddc1b9a856e05e4ceef9a60fc538e68f0e0e&X-Amz-SignedHeaders=host" target="_blank">Check out my CV</a></p>
+<p align="center"><a href="https://devfolio.co/@Pinont/readme-md" target="_blank">Check out my CV</a></p>
