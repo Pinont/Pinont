@@ -7,8 +7,6 @@ Passionate about backend and server-side systems, with the ability to work acros
 
 ## 🚀 Coding Journey
 
-From **Hello World**, I have coded for a total of:
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2028%20mins-blue?style=flat)
 
