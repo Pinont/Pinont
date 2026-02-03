@@ -89,24 +89,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 ---
 
-## 🧠 Languages I Use Most
-<!--START_SECTION:waka_language-->
-<!--END_SECTION:waka_language-->
-
----
-
-## 🛠️ IDEs I Work With
-<!--START_SECTION:waka_ide-->
-<!--END_SECTION:waka_ide-->
-
----
-
-## 💻 Favorite Machine
-<!--START_SECTION:waka_machine-->
-<!--END_SECTION:waka_machine-->
-
----
-
 ## 🔥 Today I Was Dedicated To
 
 <p align="left">
