@@ -23,7 +23,7 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_LANGUAGE: true
           SHOW_EDITORS: true
-          SHOW_PROFILE_VIEWS: true
+          SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: false
           SHOW_OS: true
           SHOW_UPDATED_DATE: false
