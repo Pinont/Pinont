@@ -3,8 +3,6 @@
 A developer who loves exploring complex problems and turning them into impactful solutions.  
 Passionate about backend and server-side systems, with the ability to work across the full stack when needed.
 
----
-
 ## 🚀 Coding Journey
 
 <!--START_SECTION:waka-->
@@ -68,8 +66,6 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
----
 
 ## 🔥 Today I Was Dedicated To
 
