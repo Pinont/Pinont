@@ -1,11 +1,50 @@
-<h1 align="center">Hi 👋, I'm Nont</h1>
-<h3 align="center">A Minecraft plugin Developer from Thailand</h3>
-<div align="center">
-  <a href="https://wakatime.com/@fa854c4c-5b98-4588-9b55-1dcd1509c1b5"><img src="https://wakatime.com/badge/user/fa854c4c-5b98-4588-9b55-1dcd1509c1b5.svg" alt="Total time coded since Aug 11 2024" /></a>
-</div>
+# 🇹🇭 Hi, I'm Nont 👋
 
-<div align="center">
-  <img alt='wakatime-stats' src='https://github-readme-stats.vercel.app/api/wakatime?username=pinozenth\&layout=compact' />
-</div>
-<br>
-<p align="center"><a href="https://devfolio.co/@Pinont/readme-md" target="_blank">Check out my CV</a></p>
+A developer who loves exploring complex problems and turning them into impactful solutions.  
+Passionate about backend and server-side systems, with the ability to work across the full stack when needed.
+
+---
+
+## 🚀 Coding Journey
+
+From **Hello World**, I have coded for a total of:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🧠 Languages I Use Most
+<!--START_SECTION:waka_language-->
+<!--END_SECTION:waka_language-->
+
+---
+
+## 🛠️ IDEs I Work With
+<!--START_SECTION:waka_ide-->
+<!--END_SECTION:waka_ide-->
+
+---
+
+## 💻 Favorite Machine
+<!--START_SECTION:waka_machine-->
+<!--END_SECTION:waka_machine-->
+
+---
+
+## 🔥 Today I Was Dedicated To
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TiDB_Cloud-002D72?style=for-the-badge&logo=tidb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bun.js-000000?style=for-the-badge&logo=bun&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
+
+Building apps, services, and ideas that actually work 🚀
