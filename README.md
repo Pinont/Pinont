@@ -13,21 +13,21 @@ Passionate about backend and server-side systems, with the ability to work acros
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-🌆 Daytime                708 commits         ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-🌃 Evening                1091 commits        ███████████░░░░░░░░░░░░░░   42.42 % 
-🌙 Night                  327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+🌞 Morning                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌆 Daytime                710 commits         ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌃 Evening                1091 commits        ███████████░░░░░░░░░░░░░░   42.39 % 
+🌙 Night                  327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Wednesday                593 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Thursday                 309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Friday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Saturday                 367 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Sunday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Monday                   241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Wednesday                593 commits         ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Thursday                 309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Friday                   260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Saturday                 369 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Sunday                   361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
 
