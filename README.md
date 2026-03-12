@@ -6,7 +6,7 @@ Passionate about backend and server-side systems, with the ability to work acros
 ## 🚀 Coding Journey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%203%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.11%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,13 +37,13 @@ Sunday                   362 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    18 mins             █████████████████████████   100.00 % 
+Other                    22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notion                   18 mins             █████████████████████████   100.00 % 
+Notion                   22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
