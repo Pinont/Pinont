@@ -6,7 +6,7 @@ Passionate about backend and server-side systems, with the ability to work acros
 ## 🚀 Coding Journey
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.46%20million%20lines%20of%20code-blue?style=flat)
 
@@ -37,15 +37,17 @@ Sunday                   340 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     4 hrs 59 mins       █████████████████████████   98.11 % 
-GitIgnore file           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Java                     3 hrs 2 mins        ███████████████████████░░   92.19 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 5 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 6 mins        ████████████████████████░   94.18 % 
+VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 💻 Operating System: 
-Mac                      5 hrs 2 mins        █████████████████████████   98.94 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Mac                      3 hrs 14 mins       █████████████████████████   98.36 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 **I Mostly Code in Java** 
